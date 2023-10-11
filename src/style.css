@@ -1,1 +1,6 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.domName {
+  text-align: center;
+  padding-top: 50px;
+}
